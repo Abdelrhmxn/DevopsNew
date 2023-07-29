@@ -1,0 +1,11 @@
+Name : Abdelrahman Mostafa Saeed Shehab
+
+
+4. 
+---- >  To Delete branch locally < -----
+- git branch -d <branchName> if it's fully merged
+- git branch -D <branchName> if it's not fully merged
+
+---- >  To Delete branch Remotely < -----
+- git push origin :<branchName>
+
