@@ -9,3 +9,6 @@ Name : Abdelrahman Mostafa Saeed Shehab
 ---- >  To Delete branch Remotely < -----
 - git push origin :<branchName>
 
+
+5.
+git stash and git checkout
